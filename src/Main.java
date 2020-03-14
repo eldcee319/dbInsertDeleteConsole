@@ -1,5 +1,5 @@
 public class Main {
-    // This will create Database music.db with reusable insert and delete method using sqlite
+    // This will create Database music.db with reusable insert and delete method using sqlite  (console-based)
     // used insertSongs(titleName,AlbumId) in main method to insert songs in the database
 
 
